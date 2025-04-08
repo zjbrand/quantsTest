@@ -1,0 +1,1 @@
+with method is able to close file automatically.
